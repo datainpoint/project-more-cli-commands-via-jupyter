@@ -2,7 +2,7 @@
 
 > 認識命令列介面（Command Line Interface, CLI）。
 
-點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)]()
+點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-getting-started-with-cli)
 
 ## 標籤
 
