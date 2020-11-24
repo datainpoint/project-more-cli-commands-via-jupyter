@@ -1,8 +1,8 @@
-# Jupyter 新增選單的 Terminal 是什麼？
+# 透過 Jupyter 認識更多 CLI 指令
 
-> 認識命令列介面（Command Line Interface, CLI）。
+> 更多在命令列介面可以操作檔案與資料夾的指令 。
 
-點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-getting-started-with-cli/HEAD)
+點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-more-cli-commands-via-jupyter/HEAD)
 
 ## 標籤
 
@@ -10,4 +10,9 @@
 
 ## TL; DR
 
-許多非資訊背景的學員在使用 Jupyter 學習 Python 的時候多會對於 Jupyter Notebook 啟動時候背景在執行的黑色視窗還有新增選單的 Terminal 感到困惑，這是本篇文章的主角：命令列介面（Command Line Interface, CLI）。
+在這篇文章中，我們接續「Jupyter 新增選單的 Terminal 是什麼？」介紹其他能夠操作檔案與資料夾的基礎指令，並提供環境鼓勵讀者可以實際操作。
+
+1. cd: 切換到某個資料夾
+2. cp: 複製檔案和資料夾
+3. mv: 移動檔案和資料夾
+4. rm: 刪除檔案或資料夾
